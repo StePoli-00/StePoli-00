@@ -1,12 +1,11 @@
 ### Welcome Everybody 
 
 
-![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=StePoli-00&show_icons=true&theme=transparent&rank_icon=github&count_private=true&include_all_commits=false&hide=issues,contribs)
+![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=StePoli-00&show_icons=true&theme=transparent&rank_icon=github&count_private=true)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&langs_count=10&theme=transparent)](url)
 -->
-
 
 <!--
 **StePoli-00/StePoli-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
