@@ -1,8 +1,8 @@
 ### Hi there 😄
 - 🔭 Currently working on LLM
-- 🌱 Constanly learning something about Machine & Deep Learning,Computer Vision, IoT and many more <br>
+- 🌱 Constanly learning something new about Machine & Deep Learning,Computer Vision ecc. <br>
 
-✨ love coding ✨
+
 
 ![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=StePoli-00&show_icons=true&theme=transparent&rank_icon=github&count_private=true)
 
